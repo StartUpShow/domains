@@ -9,5 +9,5 @@
     "movies": true,
     "tvshows": true,
     "tvguide": true,
-    "adults": false,
-    }
+    "adults": false
+}
