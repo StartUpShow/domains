@@ -1,0 +1,13 @@
+{
+    "name": "AirStar TV",
+    "website": "https://airstar.tv",
+    "api":"https://airstar.tv/api/",
+    "logo_small":"https://airstar.tv/logo.png",
+    "logo_large":"https://airstar.tv/logo.png",
+    "color":"#1e2576ff",
+    "livetv": false,
+    "movies": true,
+    "tvshows": false,
+    "tvguide": false,
+    "adults": false,    
+  }
