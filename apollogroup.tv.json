@@ -2,6 +2,7 @@
     "name": "Apollo Group TV",
     "website": "https://apollogroup.tv",
     "api":"https://vpnhere.net/api/",
+    "api_type":"ss",
     "logo_small":"https://apollogroup.tv/wp-content/themes/scalia-one-page-child2/img/logo.svg",
     "logo_large":"https://apollogroup.tv/wp-content/themes/scalia-one-page-child2/img/logo2.svg",
     "color":"#1e2576ff",
